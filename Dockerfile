@@ -1,4 +1,4 @@
-# Version 1.2.0
+# Version dev-master 1.3.0
 FROM php:5.5
 MAINTAINER Berti Golf <info@berti-golf.de>
 RUN apt-get update
